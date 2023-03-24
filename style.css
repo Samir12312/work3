@@ -1,0 +1,11 @@
+.carousel{
+    width: 1000px;
+   margin: auto;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
