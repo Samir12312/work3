@@ -1,0 +1,66 @@
+.img1 img{
+height: 150px;
+width: 150px;
+margin-top: 50px;
+margin-left: 200px;
+border: 2px black solid;
+border-radius: 30px;
+}
+
+.img1 a{
+    text-decoration: none;
+    position: relative;
+    right: 110px;
+    top: 120px;
+}
+
+.img2 img{
+height: 150px;
+width: 150px;
+position: relative;
+top: 40px;
+left: 200px;
+border: 2px black solid;
+border-radius: 30px;
+}
+
+.img2 a{
+    text-decoration: none;
+    position: relative;
+    left: 90px;
+    top: 140px;
+}
+
+.img3 img{
+    height: 150px;
+width: 150px;
+position: relative;
+top: 90px;
+left: 200px;
+border: 2px black solid;
+border-radius: 30px;
+}
+
+.img3 a{
+    text-decoration: none;
+    position: relative;
+    left: 90px;
+    top: 180px;  
+}
+
+.img4 img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 450px;
+    left: 500px;
+    border: 2px black solid;
+    border-radius: 30px;  
+}
+
+.img4 a{
+    text-decoration: none;
+    position: relative;
+    left: 380px;
+    bottom: 360px; 
+}
